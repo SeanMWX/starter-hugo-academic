@@ -12,6 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+<!--
   - block: features
     content:
       title: Skills
@@ -28,6 +29,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+-->
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
