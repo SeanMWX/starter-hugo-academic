@@ -1,7 +1,7 @@
 ---
 title: Xinhai Zou
 role: Ph.D. in Electrical Engineering (Registering)
-avatar_filename: portrait.png
+avatar_filename: 证件照new.jpg
 bio: My research interests include security, machine learning, and nanomaterials.
 interests:
   - Security
@@ -49,5 +49,13 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Xinhai Zou
+Text1
+
+T﻿ext2
+
+T﻿ext3
+
+
+
+
 {style="text-align: justify;"}
