@@ -23,15 +23,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zou
 highlight_name: true
-first_name: Alice
+first_name: Xinhai
 email: ""
 ---
 Text1
-
-T﻿ext2
-
-T﻿ext32
 
 {style="text-align: justify;"}
