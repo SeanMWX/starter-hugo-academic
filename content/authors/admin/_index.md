@@ -17,17 +17,24 @@ organizations:
     url: https://www.kuleuven.be/english/kuleuven/
 education:
   courses:
+    - course: EDUCATION2
+      institution: EDUCATION2
+      year: 2006
     - course: EDUCATION1
       institution: EDUCATION2
       year: 1997
 superuser: true
 status:
   icon: ☕️
-last_name: Zou
+last_name: Wu
 highlight_name: true
-first_name: Xinhai
+first_name: Alice
 email: ""
 ---
 Text1
+
+T﻿ext2
+
+T﻿ext32
 
 {style="text-align: justify;"}
