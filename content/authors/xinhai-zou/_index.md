@@ -13,7 +13,7 @@ education:
   courses:
     - course: Artificial Intelligence
       institution: KU Leuven
-      year: ""
+      year: "1997"
 superuser: true
 ---
 1﻿23
