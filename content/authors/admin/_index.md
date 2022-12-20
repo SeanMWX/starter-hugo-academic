@@ -5,6 +5,8 @@ avatar_filename: https://darknova1994.files.wordpress.com/2021/05/e5a4a9e5bf972.
 bio: ""
 interests:
   - INTEREST
+  - INTEREST2
+  - INTEREST3
 social:
   - icon: envelope
     icon_pack: fas
