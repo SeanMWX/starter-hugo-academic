@@ -25,7 +25,7 @@ education:
     - course: EDUCATION1
       institution: EDUCATION2
       year: 1997
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
