@@ -1,9 +1,10 @@
 ---
 title: Xinhai Zou
-role: Ph.D. in Electrical Engineering (Registering)
-avatar_filename: 证件照new.jpg
+role: PhD student in Electrical Engineering (Registering)
+avatar_filename: ""
 bio: ""
-interests: []
+interests:
+  - INTEREST
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,15 +17,9 @@ organizations:
     url: https://www.kuleuven.be/english/kuleuven/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: EDUCATION1
+      institution: EDUCATION2
+      year: 1997
 superuser: true
 status:
   icon: ☕️
