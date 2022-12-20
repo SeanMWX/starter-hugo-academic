@@ -32,9 +32,6 @@ Text1
 
 T﻿ext2
 
-T﻿ext3
-
-
-
+T﻿ext32
 
 {style="text-align: justify;"}
