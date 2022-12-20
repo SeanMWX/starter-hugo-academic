@@ -1,5 +1,5 @@
 ---
-title: Xinhai Zou
+title: Xinhai Zou (Before)
 role: PhD student in Electrical Engineering (Registering)
 avatar_filename: https://darknova1994.files.wordpress.com/2021/05/e5a4a9e5bf972.png?w=360
 bio: ""
