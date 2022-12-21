@@ -7,8 +7,8 @@ social:
       header: false
     link: https://github.com/SeanMWX
     icon_pack: fab
-    icon: <i class="fa-brands fa-github"></i>
-    label: <i class="fa-brands fa-github"></i>
+    icon: github
+    label: ""
 education:
   courses:
     - course: Artificial Intelligence
