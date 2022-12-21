@@ -29,7 +29,6 @@ sections:
           company: Master of Science | Master of Artificial Intelligence in BDA
           company_url: ''
           company_logo: kul
-          location: 1
           date_start: '2021-09-01'
           date_end: '2022-09-01'
           description: 
