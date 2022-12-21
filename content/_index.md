@@ -28,7 +28,7 @@ sections:
         - title: KU Leuven
           company: Master of Science
           company_url: ''
-          company_logo: org-gc
+          company_logo: kul
           location: Master of Artificial Intelligence in BDA
           date_start: '2021-09-01'
           date_end: '2022-09-01'
