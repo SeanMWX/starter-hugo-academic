@@ -13,8 +13,9 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
+    id: education
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
