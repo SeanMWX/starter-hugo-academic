@@ -1,7 +1,7 @@
 ---
 title: Xinhai Zou
 role: PhD student in Electrical Engineering (Registering)
-avatar_filename: avatar
+avatar_filename: pro.jpg
 social:
   - display:
       header: false
@@ -16,4 +16,4 @@ education:
       year: "1997"
 superuser: true
 ---
-1﻿23
+1﻿234
