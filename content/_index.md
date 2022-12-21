@@ -53,7 +53,7 @@ sections:
         - title: University of Science and Technology Beijing (USTB)
           company: Bachelor of Engineering | Material Forming and Controlling
           company_url: ''
-          company_logo: kul
+          company_logo: ustb
           date_start: '2014-09-01'
           date_end: '2018-06-01'
     design:
