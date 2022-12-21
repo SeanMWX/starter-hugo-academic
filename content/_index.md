@@ -26,26 +26,26 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: KU Leuven
-          company: Doctor of Philosophy | PhD of Electrical Engineering
+          company: Doctor of Philosophy | Electrical Engineering
           company_url: ''
           company_logo: kul
           date_start: '2023-02-01'
           date_end: ''
           location: prospective
         - title: KU Leuven
-          company: Master of Science | Master of Artificial Intelligence in BDA
+          company: Master of Science | Artificial Intelligence in Big Data Analysis
           company_url: ''
           company_logo: kul
           date_start: '2021-09-01'
           date_end: '2022-09-01'
         - title: KU Leuven
-          company: Course Credicts | Master of Computer Science in Secure Software
+          company: Course Credicts | Computer Science in Secure Software
           company_url: ''
           company_logo: kul
           date_start: '2020-09-01'
           date_end: '2021-09-01'
         - title: KU Leuven
-          company: Master of Science | Master of Materials Engineering in Nanomaterials
+          company: Master of Science | Materials Engineering in Nanomaterials
           company_url: ''
           company_logo: kul
           date_start: '2018-09-01'
