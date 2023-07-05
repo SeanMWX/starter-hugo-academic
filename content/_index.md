@@ -116,9 +116,9 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
-      text: |-
+      # title: Contact
+      # subtitle:
+      # text: |-
       # Contact (add or remove contact options as necessary)
       email: xinhai.zou@hotmail.com
       phone: +32 489 036 909
