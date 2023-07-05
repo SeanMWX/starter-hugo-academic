@@ -26,7 +26,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: KU Leuven
-          company: Doctor of Philosophy | Electrical Engineering
+          company: Doctor of Philosophy | Electrical Engineering in COSIC
           company_url: ''
           company_logo: kul
           date_start: '2023-06-19'
