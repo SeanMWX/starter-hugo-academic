@@ -116,9 +116,9 @@ sections:
   - block: contact
     id: contact
     content:
-      # title: Contact
-      # subtitle:
-      # text: |-
+      title: Contact
+      subtitle:
+      text: |-
       # Contact (add or remove contact options as necessary)
       email: xinhai.zou@hotmail.com
       phone: +32 489 036 909
@@ -136,13 +136,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---
