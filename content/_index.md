@@ -119,20 +119,17 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email:
-        - xinhai.zou@esat.kuleuven.be
-        - xinhai.zou@hotmail.com
+      email: xinhai.zou@hotmail.com
       phone: +32 489 036 909
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Kasteelpark Arenberg 10 - bus 2452
+        city: Heverlee
+        region: Leuven
+        postcode: '3001'
+        country: Belgium
+        country_code: BE
+      directions: B01.23, COSIC, ESAT
       office_hours:
         - 'Work Day 09:00 to 12:00'
         - 'Work Day 14:00 to 17:00'
