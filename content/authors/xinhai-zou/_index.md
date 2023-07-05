@@ -21,4 +21,4 @@ Hello, I am a Ph.D. reseracher in COSIC, ESAT, KU Leuven. I am interested in all
 If you are more interested about me, you can come:
 - [Official Personal Page in COSIC (only EN version)](https://www.esat.kuleuven.be/cosic/people/xinhai-zou/)
 - [Personal Homepage (Both CN and EN version)](http://seanzou.com/index_eng.html)
-- [Personal Blogs (only CN version](http://blog.seanzou.com/)
+- [Personal Blogs (only CN version)](http://blog.seanzou.com/)
