@@ -29,9 +29,8 @@ sections:
           company: Doctor of Philosophy | Electrical Engineering
           company_url: ''
           company_logo: kul
-          date_start: '2023-02-01'
+          date_start: '2023-06-19'
           date_end: ''
-          location: prospective
         - title: KU Leuven
           company: Master of Science | Artificial Intelligence in Big Data Analysis
           company_url: ''
