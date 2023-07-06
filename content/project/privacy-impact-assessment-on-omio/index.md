@@ -9,7 +9,7 @@ authors: []
 tags: []
 categories: []
 image:
-  filename: ""
+  filename: https://www.priv.gc.ca/media/5098/graphic2_pia-cycle_eng.png
   focal_point: ""
   preview_only: false
   alt_text: Analyze Omio by PIA methods
