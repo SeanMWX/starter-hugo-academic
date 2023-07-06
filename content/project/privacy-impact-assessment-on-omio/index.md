@@ -11,8 +11,7 @@ authors:
   - Xinhai Zou
 tags:
   - Privacy
-categories:
-  - Privacy
+categories: []
 image:
   filename: ""
   focal_point: ""
