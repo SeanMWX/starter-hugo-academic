@@ -16,7 +16,7 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-  alt_text: Analyze Omio by PIA methods
+  alt_text: ""
   caption: ""
 ---
 - Analyze online booking-tickets platforms ”Omio” with LINDDUN
