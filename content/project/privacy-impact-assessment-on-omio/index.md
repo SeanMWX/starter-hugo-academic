@@ -6,13 +6,11 @@ summary: Analyze Omio by PIA methods
 draft: false
 featured: false
 authors: []
-tags:
-  - Privacy
-categories:
-  - Privacy
+tags: []
+categories: []
 image:
   filename: ""
-  focal_point: SMART
+  focal_point: ""
   preview_only: false
   alt_text: Analyze Omio by PIA methods
   caption: ""
