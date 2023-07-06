@@ -76,6 +76,8 @@ sections:
           tag: '*'
         - name: Security
           tag: Security
+        - name: Privacy
+          tag: Privacy
         - name: AI
           tag: AI
         - name: Materials
