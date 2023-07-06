@@ -6,14 +6,15 @@ summary: Analyze Omio by PIA methods
 draft: false
 featured: false
 authors: []
-tags: []
+tags:
+  - Privacy
 categories: []
 image:
   filename: ""
   focal_point: ""
   preview_only: false
   alt_text: Analyze Omio by PIA methods
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
 ---
 - Analyze online booking-tickets platforms ”Omio” with LINDDUN
 - Build threat model for ”Omio”, and suggest corresponding mitigation strategies
