@@ -13,8 +13,8 @@ image:
   focal_point: ""
   preview_only: false
   alt_text: Analyze Omio by PIA methods
-  caption: ""
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 ---
-* Analyze online booking-tickets platforms ”Omio” with LINDDUN
-* Build threat model for ”Omio”, and suggest corresponding mitigation strategies
-* Obtain a [Westin Scholar Awards (Class of 2021-2022)](https://iapp.org/resources/article/westin-scholar-awards/)
+- Analyze online booking-tickets platforms ”Omio” with LINDDUN
+- Build threat model for ”Omio”, and suggest corresponding mitigation strategies
+- Obtain a [Westin Scholar Awards (Class of 2021-2022)](https://iapp.org/resources/article/westin-scholar-awards/)
