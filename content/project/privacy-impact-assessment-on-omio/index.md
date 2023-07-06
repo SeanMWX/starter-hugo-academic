@@ -12,7 +12,7 @@ categories:
   - Privacy
 image:
   filename: https://cdn.comparitech.com/wp-content/uploads/2021/06/Privacy-Impact-Assessment.webp
-  focal_point: ""
+  focal_point: SMART
   preview_only: false
   alt_text: Analyze Omio by PIA methods
 ---
