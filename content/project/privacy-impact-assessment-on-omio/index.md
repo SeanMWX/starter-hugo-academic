@@ -11,7 +11,7 @@ tags:
 categories:
   - Privacy
 image:
-  filename: ""
+  filename: https://www.comparitech.com/data-privacy-management/what-is-a-privacy-impact-assessment/
   focal_point: ""
   preview_only: false
 ---
