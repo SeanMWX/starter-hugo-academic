@@ -3,8 +3,8 @@ title: Privacy Impact Assessment on Omio
 subtitle: Westin Scholar 2022
 date: 2023-07-06T18:07:58.698Z
 summary: Analyze Omio by PIA methods
-draft: true
-featured: true
+draft: false
+featured: false
 authors: []
 tags:
   - Privacy
