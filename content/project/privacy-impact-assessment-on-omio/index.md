@@ -5,7 +5,10 @@ date: 2023-07-06T18:07:58.698Z
 summary: Analyze Omio by PIA methods
 draft: false
 featured: false
-authors: []
+authors:
+  - Guangxuan Zeng
+  - Guojun Wu
+  - Xinhai Zou
 tags:
   - Privacy
 categories: []
