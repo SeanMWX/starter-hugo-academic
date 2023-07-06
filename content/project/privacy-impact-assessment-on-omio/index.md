@@ -13,7 +13,7 @@ tags:
   - Privacy
 categories: []
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: ""
   preview_only: false
   alt_text: ""
