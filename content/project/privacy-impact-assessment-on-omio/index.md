@@ -11,9 +11,10 @@ tags:
 categories:
   - Privacy
 image:
-  filename: https://www.comparitech.com/data-privacy-management/what-is-a-privacy-impact-assessment/
+  filename: https://cdn.comparitech.com/wp-content/uploads/2021/06/Privacy-Impact-Assessment.webp
   focal_point: ""
   preview_only: false
+  alt_text: Analyze Omio by PIA methods
 ---
 * Analyze online booking-tickets platforms ”Omio” with LINDDUN
 * Build threat model for ”Omio”, and suggest corresponding mitigation strategies
