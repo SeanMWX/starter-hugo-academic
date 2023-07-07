@@ -6,7 +6,10 @@ summary: Help OWASP ZAP add new features.
 draft: false
 featured: false
 authors:
-  - WaitingToAdd
+  - Deniz Alp Savaskan
+  - Rawad Ghostin
+  - Tianjian Song
+  - Xinhai Zou
 tags:
   - Security
 image:
