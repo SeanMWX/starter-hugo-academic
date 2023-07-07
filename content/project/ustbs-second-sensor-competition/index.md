@@ -1,14 +1,12 @@
 ---
 title: USTB's Second Sensor Competition
 subtitle: Third-Price Award
-date: 2023-07-07T11:14:06.194Z
+date: 2017-01-31T12:14:06.194Z
 summary: Using 51 MCU to build a automatically sorting trashbin.
 draft: false
 featured: false
 authors:
-  - Weixin Meng
-  - Xinhai Zou
-  - Two Other Students
+  - XinhaiZou
 tags:
   - CS
 image:
