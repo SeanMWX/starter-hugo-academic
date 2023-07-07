@@ -2,7 +2,7 @@
 title: About Me
 subtitle: Story about Xinhai Zou
 date: 2023-07-07T11:39:52.681Z
-summary: Story about Xinhai Zou
+summary: Story about Xinhai Zou.
 draft: false
 featured: false
 authors:
