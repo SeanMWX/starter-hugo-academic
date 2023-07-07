@@ -6,7 +6,9 @@ summary: Using 51 MCU to build a automatically sorting trashbin.
 draft: false
 featured: false
 authors:
-  - XinhaiZou
+  - Weixin Meng
+  - Xinhai Zou
+  - Two Other Students
 tags:
   - CS
 image:
