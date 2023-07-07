@@ -80,6 +80,8 @@ sections:
           tag: Privacy
         - name: AI
           tag: AI
+        - name: CS
+          tag: CS
         - name: Materials
           tag: Materials
     design:
