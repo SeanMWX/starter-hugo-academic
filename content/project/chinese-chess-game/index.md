@@ -1,7 +1,7 @@
 ---
 title: Chinese Chess Game
 subtitle: "Honorable Mention in 2019 52Pojie Animation Contest "
-date: 2023-07-07T11:04:18.923Z
+date: 2015-08-15T11:04:18.923Z
 summary: Implement a Chinese Chess Game using OOP in C++.
 draft: false
 featured: false
