@@ -13,7 +13,7 @@ authors:
 tags:
   - Security
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: ""
   preview_only: false
 ---
