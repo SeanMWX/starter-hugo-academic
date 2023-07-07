@@ -6,7 +6,9 @@ summary: Using Matlab to predict the success of smart growth in different cities
 draft: false
 featured: false
 authors:
-  - XinhaiZ
+  - Wanli Zhang
+  - Weixin Meng
+  - Xinhai Zou
 tags:
   - CS
 image:
