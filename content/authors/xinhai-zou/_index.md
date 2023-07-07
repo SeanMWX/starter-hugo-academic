@@ -21,15 +21,16 @@ education:
       year: ""
     - course: Master of Science | Artificial Intelligence in Big Data Analysis
       institution: KU Leuven
+      year: 2023
     - course: Course Credicts | Computer Science in Secure Software
       institution: KU Leuven
-      year: ""
-    - year: ""
+      year: 2022
+    - year: 2021
       course: Master of Science | Materials Engineering in Nanomaterials
       institution: KU Leuven
     - institution: University of Science and Technology Beijing (USTB)
       course: Bachelor of Engineering | Material Forming and Controlling
-      year: ""
+      year: 2018
 email: xinhai.zou@hotmail.com
 superuser: true
 ---
