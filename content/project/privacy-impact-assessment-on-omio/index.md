@@ -11,13 +11,10 @@ authors:
   - Xinhai Zou
 tags:
   - Privacy
-categories: []
 image:
   filename: featured.jpg
   focal_point: ""
   preview_only: false
-  alt_text: ""
-  caption: ""
 ---
 - Analyze online booking-tickets platforms ”Omio” with LINDDUN
 - Build threat model for ”Omio”, and suggest corresponding mitigation strategies
