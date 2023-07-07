@@ -7,7 +7,7 @@ summary: Build a Deep-Learning (DL) framework of device identification for a
 draft: false
 featured: false
 authors:
-  - XinhaiZou
+  - Xinhai Zou
 tags:
   - Security
 image:
