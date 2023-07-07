@@ -9,11 +9,28 @@ social:
     icon_pack: fab
     icon: github
     label: ""
+  - display:
+      header: false
+    icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/xinhai-zou-0aa658221/
 education:
   courses:
-    - course: Artificial Intelligence
+    - course: Doctor of Philosophy | Electrical Engineering in COSIC
       institution: KU Leuven
-      year: "1997"
+      year: ""
+    - course: Master of Science | Artificial Intelligence in Big Data Analysis
+      institution: KU Leuven
+    - course: Course Credicts | Computer Science in Secure Software
+      institution: KU Leuven
+      year: ""
+    - year: ""
+      course: Master of Science | Materials Engineering in Nanomaterials
+      institution: KU Leuven
+    - institution: University of Science and Technology Beijing (USTB)
+      course: Bachelor of Engineering | Material Forming and Controlling
+      year: ""
+email: xinhai.zou@hotmail.com
 superuser: true
 ---
 Hello, I am a Ph.D. reseracher in COSIC, ESAT, KU Leuven. I am interested in all kinds of application in security in human life ;D. Currently, my research is on security evaluation and design in Industrial Control Systems (ICS) and Industrial Internet of Things (IIoT).
