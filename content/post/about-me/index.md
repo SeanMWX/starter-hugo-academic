@@ -10,7 +10,7 @@ authors:
 tags:
   - Life
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -32,6 +32,9 @@ print('This is a story about Mr. Xinhai Zou')
 2014 - 2018: I studied Materials Science at USTB, China (#10 Materials Science in China from QS 2023). However, my enthusiasm for Computer Science, which originated in my childhood, never waned. As a Materials Science student, I actively participated in various related experiences, such as ACM, Lanqiao Cup, Sensor Competition by USTB, MCM/ICM. I am truly grateful for this enthusiasm as it greatly aided me in my subsequent studies in Computer Science and Artificial Intelligence.
 
 --- Before 2014
+
 1997 - 2014: Growing up with deep interest in Computer Science.
+
 1997: I was born.
+
 Before 1997: I was not in this world.
