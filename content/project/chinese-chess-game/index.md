@@ -6,7 +6,8 @@ summary: Implement a Chinese Chess Game using OOP in C++.
 draft: false
 featured: false
 authors:
-  - XinhaiZou
+  - Sitong Gao
+  - Xinhai Zou
 tags:
   - CS
 image:
