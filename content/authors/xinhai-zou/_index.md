@@ -21,7 +21,7 @@ education:
       year: 2027
     - course: Master of Science | Artificial Intelligence in Big Data Analysis
       institution: KU Leuven
-      year: 2021
+      year: 2022
     - course: Course Credicts | Computer Science in Secure Software
       institution: KU Leuven
       year: 2021
