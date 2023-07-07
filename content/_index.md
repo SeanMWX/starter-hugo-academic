@@ -102,7 +102,7 @@ sections:
           - post
         author: ""
         category: ""
-        # tag: ""
+        tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
