@@ -18,7 +18,7 @@ education:
   courses:
     - course: Doctor of Philosophy | Electrical Engineering in COSIC
       institution: KU Leuven
-      year: ""
+      year: 2028
     - course: Master of Science | Artificial Intelligence in Big Data Analysis
       institution: KU Leuven
       year: 2023
